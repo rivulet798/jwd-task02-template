@@ -1,0 +1,13 @@
+<breakfast-menu id="5" class="15">
+    <food fio="8" discount="20.5">
+        <name color="red">
+            Belgian Waffles
+    </name>
+        <price>$5.95
+        </price></food>
+    <food><name>Strawberry Belgian Waffles
+        </name>
+        <price>$7.95
+        </price>
+    </food>
+</breakfast-menu>
